@@ -1,5 +1,5 @@
-Amirmohammad Masoumi - 3648672
-Jan-Jaap Lankhaar - 3872319
+Amirmohammad Masoumi 
+Jan-Jaap Lankhaar
 
 -- Imperative
 
